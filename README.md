@@ -8,3 +8,5 @@
 # PYTHON
 # BASH
 # BATCH
+# C
+# C++
