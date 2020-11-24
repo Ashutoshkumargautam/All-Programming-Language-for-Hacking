@@ -1,5 +1,12 @@
-/*--------------main css file-------------*/
-body{
-  background: red;
-  text-align: center;
+<html>
+<head>
+<style>
+h1{
+  text-color: red;
 }
+</style>
+</head>
+<body>
+<h1>Hello world</h1>
+</body>
+</html>
